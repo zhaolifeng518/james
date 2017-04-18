@@ -1,2 +1,2 @@
 # james
-my first repository
+this is myfirst repository
